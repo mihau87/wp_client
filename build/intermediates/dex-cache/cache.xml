@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\x\Documents\Repo\Telemedically\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\x\Documents\Repo\Telemedically\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_820d5c46b3fd846e1c54edb721acdb3675903797\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\x\Documents\Repo\Telemedically\app\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3a5961175b98494b89b7a24ac128e61e64ef7ef6">
+        <dex dex="C:\Users\x\Documents\Repo\Telemedically\app\build\intermediates\transforms\dex\debug\folders\1000\2\volley_a16f76c04e9c7b5b812bddabe771ae4664275f80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\x\Documents\Repo\Telemedically\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\x\Documents\Repo\Telemedically\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_3cef88c9a6f63d8af111b9689b691c6d2dfe1795\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\x\Documents\Repo\Telemedically\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f75f76727e892553f4591e373ce8640c605bfc49">
+        <dex dex="C:\Users\x\Documents\Repo\Telemedically\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5d1c6642fd737dbdc6c60374dba6b33b1ea0e4c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\x\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="C:\Users\x\Documents\Repo\Telemedically\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.6.1_a932711446f05f628e1ab5ff430ce92bb276c7c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\x\Documents\Repo\Telemedically\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\x\Documents\Repo\Telemedically\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.1_f4a2dad17d8dbc7fa435072340cdf8a0112e7eb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\x\Documents\Repo\Telemedically\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="C:\Users\x\Documents\Repo\Telemedically\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-22.2.1_6528648ea63dcf697307066ebbfc9ddbfe8701d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\x\Documents\Repo\Telemedically\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c3072164b03350b441ae9cec6d1b1413fa2973a3">
+        <dex dex="C:\Users\x\Documents\Repo\Telemedically\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_00b14f51bbc0c047d9f55a439abad8ad7c154bc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\x\Documents\Repo\Telemedically\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\x\Documents\Repo\Telemedically\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_eee383b997338ebf1b226fc01ae9bd7221f50c00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\x\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\x\Documents\Repo\Telemedically\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_967165091579188d8138f079fba73278ff816f52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\x\Documents\Repo\Telemedically\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="C:\Users\x\Documents\Repo\Telemedically\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-22.2.1_026963625a6eec5246e20f15eb2c315d55796d8a\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TeleMihau</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="action_comments">Komentarze</string>
+    <string name="title_activity_article">Posty</string>
+    <string name="title_activity_comment">Komentarze</string>
+    <string name="action_share">Udsotępnij</string>
+    <string name="tab_all">Ogólne</string>
+    <string name="loading_categories">Ładowanie…</string>
+    <string name="loading_articles">Ładowanie…</string>
+    <string name="action_refresh">Odśwież</string>
+    <string name="action_send_to_wear">Wyślij do zegarka</string>
+    <string name="error_load_categories">Błąd połączenia. Nie można pobrać kategorii</string>
+    <string name="error_load_posts">Błąd połączenia. Nie można pobrać postów.</string>
+    <string name="action_retry">Ponów</string>
+    <string name="search_hint">Szukaj...</string>
+    <string name="search_result">Wyszukiwanie </string>
+
+</resources>
